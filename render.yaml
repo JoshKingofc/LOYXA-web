@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: boyxa-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/Joshuamambo1/BOYXA-XD-web
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
