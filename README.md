@@ -5,7 +5,7 @@
 <a><img src='https://i.postimg.cc/q7sRgTNH/midkingowner.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/Joshuamambo1"><img title="Developer" src="https://img.shields.io/badge/Author-BOYXA-XD%20XD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Joshuamambo1"><img title="Developer" src="[https://i.postimg.cc/dtqvMVZ1/Boyxaxdwagrp.jpg?style=big-square&logo=github" /></a>
 </p>
 
 
